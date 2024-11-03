@@ -3,3 +3,7 @@
 @tailwind utilities;
 
 /* You can add global styles to this file, and also import other style files */
+@import '@acorex/styles/icons/fontawesome/fontawesome.scss';
+@import '@acorex/styles/icons/index.scss';
+@import '@acorex/styles/themes/default.scss';
+@import '@acorex/styles/index.scss';
